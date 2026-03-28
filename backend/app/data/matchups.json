@@ -1,0 +1,104 @@
+{
+  "matchups": [
+    {
+      "batter": "Virat Kohli",
+      "bowler": "Adam Zampa",
+      "dismissals": 6,
+      "runs": 124,
+      "balls": 98,
+      "strike_rate": 126.5,
+      "edge_score": -18,
+      "context": "Struggled against leg spin in middle overs"
+    },
+    {
+      "batter": "Suryakumar Yadav",
+      "bowler": "Adam Zampa",
+      "dismissals": 2,
+      "runs": 185,
+      "balls": 98,
+      "strike_rate": 188.8,
+      "edge_score": 86,
+      "context": "Dominated leg spin with innovative strokeplay"
+    },
+    {
+      "batter": "Rohit Sharma",
+      "bowler": "Mitchell Starc",
+      "dismissals": 5,
+      "runs": 142,
+      "balls": 95,
+      "strike_rate": 149.5,
+      "edge_score": -12,
+      "context": "Vulnerable to left-arm pace in powerplay"
+    },
+    {
+      "batter": "Travis Head",
+      "bowler": "Kuldeep Yadav",
+      "dismissals": 8,
+      "runs": 156,
+      "balls": 108,
+      "strike_rate": 144.4,
+      "edge_score": -24,
+      "context": "Poor record against wrist spin"
+    },
+    {
+      "batter": "Glenn Maxwell",
+      "bowler": "Kuldeep Yadav",
+      "dismissals": 7,
+      "runs": 142,
+      "balls": 92,
+      "strike_rate": 154.3,
+      "edge_score": -22,
+      "context": "Struggles against left-arm wrist spin"
+    },
+    {
+      "batter": "Hardik Pandya",
+      "bowler": "Pat Cummins",
+      "dismissals": 3,
+      "runs": 168,
+      "balls": 95,
+      "strike_rate": 176.8,
+      "edge_score": 65,
+      "context": "Strong acceleration vs pace in death"
+    },
+    {
+      "batter": "Suryakumar Yadav",
+      "bowler": "Mitchell Starc",
+      "dismissals": 1,
+      "runs": 142,
+      "balls": 78,
+      "strike_rate": 182.1,
+      "edge_score": 78,
+      "context": "Excellent counter-attack vs left-arm pace"
+    },
+    {
+      "batter": "Travis Head",
+      "bowler": "Jasprit Bumrah",
+      "dismissals": 4,
+      "runs": 138,
+      "balls": 85,
+      "strike_rate": 162.4,
+      "edge_score": -8,
+      "context": "Moderate success vs death specialist"
+    },
+    {
+      "batter": "Glenn Maxwell",
+      "bowler": "Ravindra Jadeja",
+      "dismissals": 5,
+      "runs": 125,
+      "balls": 82,
+      "strike_rate": 152.4,
+      "edge_score": -15,
+      "context": "Lower strike rate vs left-arm orthodox"
+    },
+    {
+      "batter": "Rohit Sharma",
+      "bowler": "Adam Zampa",
+      "dismissals": 2,
+      "runs": 162,
+      "balls": 105,
+      "strike_rate": 154.3,
+      "edge_score": 52,
+      "context": "Comfortable against leg spin"
+    }
+  ]
+}

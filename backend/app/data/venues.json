@@ -1,0 +1,89 @@
+{
+  "venues": [
+    {
+      "name": "Chennai",
+      "pitch_characteristics": {
+        "spin_friendly": 85,
+        "pace_friendly": 45,
+        "bounce": 50,
+        "turn": 80
+      },
+      "weather_impact": {
+        "dew_factor": 70,
+        "heat_factor": 85
+      },
+      "average_scores": {
+        "first_innings": 165,
+        "second_innings": 155
+      }
+    },
+    {
+      "name": "Mumbai",
+      "pitch_characteristics": {
+        "spin_friendly": 55,
+        "pace_friendly": 65,
+        "bounce": 70,
+        "turn": 60
+      },
+      "weather_impact": {
+        "dew_factor": 80,
+        "heat_factor": 75
+      },
+      "average_scores": {
+        "first_innings": 175,
+        "second_innings": 170
+      }
+    },
+    {
+      "name": "Perth",
+      "pitch_characteristics": {
+        "spin_friendly": 35,
+        "pace_friendly": 90,
+        "bounce": 95,
+        "turn": 30
+      },
+      "weather_impact": {
+        "dew_factor": 20,
+        "heat_factor": 80
+      },
+      "average_scores": {
+        "first_innings": 170,
+        "second_innings": 165
+      }
+    },
+    {
+      "name": "London",
+      "pitch_characteristics": {
+        "spin_friendly": 40,
+        "pace_friendly": 75,
+        "bounce": 65,
+        "turn": 45
+      },
+      "weather_impact": {
+        "dew_factor": 30,
+        "heat_factor": 40
+      },
+      "average_scores": {
+        "first_innings": 160,
+        "second_innings": 155
+      }
+    },
+    {
+      "name": "Dubai",
+      "pitch_characteristics": {
+        "spin_friendly": 75,
+        "pace_friendly": 50,
+        "bounce": 55,
+        "turn": 70
+      },
+      "weather_impact": {
+        "dew_factor": 60,
+        "heat_factor": 90
+      },
+      "average_scores": {
+        "first_innings": 155,
+        "second_innings": 150
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "teams": [
+    {
+      "name": "India",
+      "short_name": "IND",
+      "default_xi": [
+        "Rohit Sharma",
+        "Virat Kohli",
+        "Suryakumar Yadav",
+        "Hardik Pandya",
+        "Ravindra Jadeja",
+        "Rishabh Pant",
+        "Axar Patel",
+        "Kuldeep Yadav",
+        "Jasprit Bumrah",
+        "Mohammed Shami",
+        "Mohammed Siraj"
+      ],
+      "strengths": [
+        "spin_bowling",
+        "middle_overs_batting",
+        "fielding"
+      ],
+      "weaknesses": [
+        "pace_on_bouncy_tracks"
+      ]
+    },
+    {
+      "name": "Australia",
+      "short_name": "AUS",
+      "default_xi": [
+        "Travis Head",
+        "David Warner",
+        "Steve Smith",
+        "Glenn Maxwell",
+        "Marcus Stoinis",
+        "Tim David",
+        "Matthew Wade",
+        "Pat Cummins",
+        "Mitchell Starc",
+        "Adam Zampa",
+        "Josh Hazlewood"
+      ],
+      "strengths": [
+        "pace_bowling",
+        "powerplay_aggression",
+        "big_hitting"
+      ],
+      "weaknesses": [
+        "spin_on_turning_tracks"
+      ]
+    },
+    {
+      "name": "England",
+      "short_name": "ENG",
+      "default_xi": [
+        "Jos Buttler",
+        "Jason Roy",
+        "Dawid Malan",
+        "Harry Brook",
+        "Liam Livingstone",
+        "Moeen Ali",
+        "Sam Curran",
+        "Chris Woakes",
+        "Adil Rashid",
+        "Mark Wood",
+        "Reece Topley"
+      ],
+      "strengths": [
+        "aggressive_batting",
+        "death_bowling",
+        "all_rounders"
+      ],
+      "weaknesses": [
+        "spin_middle_overs"
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "short_name": "PAK",
+      "default_xi": [
+        "Babar Azam",
+        "Mohammad Rizwan",
+        "Fakhar Zaman",
+        "Iftikhar Ahmed",
+        "Shadab Khan",
+        "Mohammad Nawaz",
+        "Asif Ali",
+        "Shaheen Afridi",
+        "Haris Rauf",
+        "Naseem Shah",
+        "Mohammad Wasim"
+      ],
+      "strengths": [
+        "pace_attack",
+        "top_order_stability",
+        "spin_all_rounders"
+      ],
+      "weaknesses": [
+        "middle_order_depth"
+      ]
+    }
+  ]
+}
