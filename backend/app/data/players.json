@@ -1,0 +1,938 @@
+{
+  "players": [
+    {
+      "name": "Rohit Sharma",
+      "role": "Batsman",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm off-break",
+      "recent_form": {
+        "runs_last_5": [
+          45,
+          38,
+          72,
+          15,
+          58
+        ],
+        "strike_rate_last_5": [
+          142,
+          135,
+          165,
+          125,
+          148
+        ],
+        "average_last_5": 45.6
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 42,
+          "sr": 155
+        },
+        "middle_overs": {
+          "avg": 38,
+          "sr": 135
+        },
+        "death_overs": {
+          "avg": 35,
+          "sr": 170
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 40,
+          "sr": 145,
+          "dismissals": 12
+        },
+        "vs_spin": {
+          "avg": 38,
+          "sr": 130,
+          "dismissals": 8
+        }
+      },
+      "pressure_rating": 78,
+      "acceleration_rating": 82,
+      "injury_history": "minor_shoulder_2023",
+      "availability": 95
+    },
+    {
+      "name": "Virat Kohli",
+      "role": "Batsman",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm medium",
+      "recent_form": {
+        "runs_last_5": [
+          52,
+          48,
+          35,
+          68,
+          42
+        ],
+        "strike_rate_last_5": [
+          138,
+          142,
+          128,
+          155,
+          135
+        ],
+        "average_last_5": 49.0
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 45,
+          "sr": 145
+        },
+        "middle_overs": {
+          "avg": 52,
+          "sr": 138
+        },
+        "death_overs": {
+          "avg": 40,
+          "sr": 160
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 48,
+          "sr": 142,
+          "dismissals": 10
+        },
+        "vs_spin": {
+          "avg": 42,
+          "sr": 125,
+          "dismissals": 15
+        }
+      },
+      "pressure_rating": 92,
+      "acceleration_rating": 75,
+      "injury_history": "none",
+      "availability": 98
+    },
+    {
+      "name": "Suryakumar Yadav",
+      "role": "Batsman",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm off-break",
+      "recent_form": {
+        "runs_last_5": [
+          68,
+          82,
+          45,
+          91,
+          38
+        ],
+        "strike_rate_last_5": [
+          172,
+          185,
+          155,
+          195,
+          158
+        ],
+        "average_last_5": 64.8
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 38,
+          "sr": 165
+        },
+        "middle_overs": {
+          "avg": 58,
+          "sr": 180
+        },
+        "death_overs": {
+          "avg": 48,
+          "sr": 190
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 52,
+          "sr": 175,
+          "dismissals": 8
+        },
+        "vs_spin": {
+          "avg": 62,
+          "sr": 185,
+          "dismissals": 5
+        }
+      },
+      "pressure_rating": 81,
+      "acceleration_rating": 96,
+      "injury_history": "none",
+      "availability": 100
+    },
+    {
+      "name": "Hardik Pandya",
+      "role": "All-rounder",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm fast-medium",
+      "recent_form": {
+        "runs_last_5": [
+          42,
+          55,
+          28,
+          38,
+          65
+        ],
+        "strike_rate_last_5": [
+          165,
+          178,
+          142,
+          152,
+          185
+        ],
+        "average_last_5": 45.6
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 32,
+          "sr": 155
+        },
+        "middle_overs": {
+          "avg": 42,
+          "sr": 165
+        },
+        "death_overs": {
+          "avg": 52,
+          "sr": 185
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 45,
+          "sr": 172,
+          "dismissals": 6
+        },
+        "vs_spin": {
+          "avg": 40,
+          "sr": 158,
+          "dismissals": 7
+        }
+      },
+      "pressure_rating": 85,
+      "acceleration_rating": 92,
+      "injury_history": "ankle_surgery_2023",
+      "availability": 88
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "role": "All-rounder",
+      "batting_style": "Left-hand",
+      "bowling_style": "Slow left-arm orthodox",
+      "recent_form": {
+        "runs_last_5": [
+          35,
+          28,
+          42,
+          18,
+          38
+        ],
+        "strike_rate_last_5": [
+          145,
+          135,
+          158,
+          128,
+          148
+        ],
+        "average_last_5": 32.2
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 25,
+          "sr": 135
+        },
+        "middle_overs": {
+          "avg": 32,
+          "sr": 142
+        },
+        "death_overs": {
+          "avg": 38,
+          "sr": 165
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 32,
+          "sr": 148,
+          "dismissals": 8
+        },
+        "vs_spin": {
+          "avg": 28,
+          "sr": 135,
+          "dismissals": 5
+        }
+      },
+      "pressure_rating": 82,
+      "acceleration_rating": 78,
+      "injury_history": "knee_2022",
+      "availability": 92
+    },
+    {
+      "name": "Rishabh Pant",
+      "role": "Batsman",
+      "batting_style": "Left-hand",
+      "bowling_style": "Right-arm medium",
+      "recent_form": {
+        "runs_last_5": [
+          58,
+          30,
+          72,
+          44,
+          60
+        ],
+        "strike_rate_last_5": [
+          155,
+          140,
+          180,
+          148,
+          162
+        ],
+        "average_last_5": 52.8
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 40,
+          "sr": 150
+        },
+        "middle_overs": {
+          "avg": 48,
+          "sr": 162
+        },
+        "death_overs": {
+          "avg": 55,
+          "sr": 178
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 50,
+          "sr": 165,
+          "dismissals": 9
+        },
+        "vs_spin": {
+          "avg": 45,
+          "sr": 155,
+          "dismissals": 11
+        }
+      },
+      "pressure_rating": 80,
+      "acceleration_rating": 90,
+      "injury_history": "knee_2023",
+      "availability": 85
+    },
+    {
+      "name": "Axar Patel",
+      "role": "All-rounder",
+      "batting_style": "Left-hand",
+      "bowling_style": "Slow left-arm orthodox",
+      "recent_form": {
+        "runs_last_5": [
+          22,
+          35,
+          18,
+          42,
+          28
+        ],
+        "strike_rate_last_5": [
+          138,
+          150,
+          128,
+          160,
+          142
+        ],
+        "average_last_5": 29.0
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 20,
+          "sr": 130
+        },
+        "middle_overs": {
+          "avg": 28,
+          "sr": 138
+        },
+        "death_overs": {
+          "avg": 35,
+          "sr": 158
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 28,
+          "sr": 142,
+          "dismissals": 7
+        },
+        "vs_spin": {
+          "avg": 25,
+          "sr": 130,
+          "dismissals": 6
+        }
+      },
+      "pressure_rating": 75,
+      "acceleration_rating": 72,
+      "injury_history": "none",
+      "availability": 95
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "role": "Bowler",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm fast",
+      "bowling_stats": {
+        "economy_powerplay": 6.2,
+        "economy_middle": 7.5,
+        "economy_death": 8.8,
+        "wickets_last_5": [
+          2,
+          3,
+          1,
+          2,
+          3
+        ]
+      },
+      "matchup_effectiveness": {
+        "vs_left_hand": 85,
+        "vs_right_hand": 80
+      },
+      "pressure_rating": 95,
+      "availability": 90
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "role": "Bowler",
+      "batting_style": "Left-hand",
+      "bowling_style": "Left-arm wrist spin",
+      "bowling_stats": {
+        "economy_powerplay": 7.8,
+        "economy_middle": 6.5,
+        "economy_death": 9.2,
+        "wickets_last_5": [
+          2,
+          1,
+          3,
+          2,
+          2
+        ]
+      },
+      "matchup_effectiveness": {
+        "vs_left_hand": 78,
+        "vs_right_hand": 88
+      },
+      "pressure_rating": 82,
+      "availability": 95
+    },
+    {
+      "name": "Mohammed Shami",
+      "role": "Bowler",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm fast-medium",
+      "bowling_stats": {
+        "economy_powerplay": 6.8,
+        "economy_middle": 8.0,
+        "economy_death": 9.5,
+        "wickets_last_5": [
+          2,
+          2,
+          1,
+          3,
+          2
+        ]
+      },
+      "matchup_effectiveness": {
+        "vs_left_hand": 80,
+        "vs_right_hand": 82
+      },
+      "pressure_rating": 85,
+      "availability": 88
+    },
+    {
+      "name": "Mohammed Siraj",
+      "role": "Bowler",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm fast-medium",
+      "bowling_stats": {
+        "economy_powerplay": 7.2,
+        "economy_middle": 8.2,
+        "economy_death": 9.8,
+        "wickets_last_5": [
+          1,
+          2,
+          2,
+          1,
+          3
+        ]
+      },
+      "matchup_effectiveness": {
+        "vs_left_hand": 78,
+        "vs_right_hand": 80
+      },
+      "pressure_rating": 80,
+      "availability": 92
+    },
+    {
+      "name": "Travis Head",
+      "role": "Batsman",
+      "batting_style": "Left-hand",
+      "bowling_style": "Slow left-arm orthodox",
+      "recent_form": {
+        "runs_last_5": [
+          88,
+          52,
+          45,
+          72,
+          38
+        ],
+        "strike_rate_last_5": [
+          185,
+          162,
+          155,
+          175,
+          148
+        ],
+        "average_last_5": 59.0
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 58,
+          "sr": 172
+        },
+        "middle_overs": {
+          "avg": 42,
+          "sr": 155
+        },
+        "death_overs": {
+          "avg": 38,
+          "sr": 168
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 52,
+          "sr": 168,
+          "dismissals": 7
+        },
+        "vs_spin": {
+          "avg": 38,
+          "sr": 145,
+          "dismissals": 12
+        }
+      },
+      "pressure_rating": 76,
+      "acceleration_rating": 89,
+      "injury_history": "none",
+      "availability": 98
+    },
+    {
+      "name": "David Warner",
+      "role": "Batsman",
+      "batting_style": "Left-hand",
+      "bowling_style": "Right-arm off-break",
+      "recent_form": {
+        "runs_last_5": [
+          55,
+          42,
+          68,
+          35,
+          80
+        ],
+        "strike_rate_last_5": [
+          158,
+          148,
+          175,
+          138,
+          182
+        ],
+        "average_last_5": 56.0
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 60,
+          "sr": 170
+        },
+        "middle_overs": {
+          "avg": 45,
+          "sr": 152
+        },
+        "death_overs": {
+          "avg": 35,
+          "sr": 162
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 50,
+          "sr": 162,
+          "dismissals": 9
+        },
+        "vs_spin": {
+          "avg": 42,
+          "sr": 148,
+          "dismissals": 13
+        }
+      },
+      "pressure_rating": 78,
+      "acceleration_rating": 86,
+      "injury_history": "none",
+      "availability": 95
+    },
+    {
+      "name": "Steve Smith",
+      "role": "Batsman",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm leg-break",
+      "recent_form": {
+        "runs_last_5": [
+          38,
+          52,
+          45,
+          62,
+          35
+        ],
+        "strike_rate_last_5": [
+          128,
+          138,
+          132,
+          148,
+          125
+        ],
+        "average_last_5": 46.4
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 35,
+          "sr": 130
+        },
+        "middle_overs": {
+          "avg": 50,
+          "sr": 140
+        },
+        "death_overs": {
+          "avg": 40,
+          "sr": 152
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 48,
+          "sr": 138,
+          "dismissals": 11
+        },
+        "vs_spin": {
+          "avg": 45,
+          "sr": 132,
+          "dismissals": 10
+        }
+      },
+      "pressure_rating": 88,
+      "acceleration_rating": 68,
+      "injury_history": "none",
+      "availability": 96
+    },
+    {
+      "name": "Glenn Maxwell",
+      "role": "All-rounder",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm off-break",
+      "recent_form": {
+        "runs_last_5": [
+          65,
+          42,
+          28,
+          88,
+          35
+        ],
+        "strike_rate_last_5": [
+          178,
+          155,
+          142,
+          195,
+          148
+        ],
+        "average_last_5": 51.6
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 38,
+          "sr": 162
+        },
+        "middle_overs": {
+          "avg": 52,
+          "sr": 175
+        },
+        "death_overs": {
+          "avg": 58,
+          "sr": 188
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 48,
+          "sr": 172,
+          "dismissals": 9
+        },
+        "vs_spin": {
+          "avg": 42,
+          "sr": 158,
+          "dismissals": 14
+        }
+      },
+      "pressure_rating": 79,
+      "acceleration_rating": 94,
+      "injury_history": "leg_fracture_2022",
+      "availability": 85
+    },
+    {
+      "name": "Marcus Stoinis",
+      "role": "All-rounder",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm fast-medium",
+      "recent_form": {
+        "runs_last_5": [
+          45,
+          38,
+          62,
+          28,
+          55
+        ],
+        "strike_rate_last_5": [
+          160,
+          148,
+          172,
+          138,
+          165
+        ],
+        "average_last_5": 45.6
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 38,
+          "sr": 155
+        },
+        "middle_overs": {
+          "avg": 45,
+          "sr": 162
+        },
+        "death_overs": {
+          "avg": 55,
+          "sr": 178
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 44,
+          "sr": 162,
+          "dismissals": 8
+        },
+        "vs_spin": {
+          "avg": 40,
+          "sr": 152,
+          "dismissals": 10
+        }
+      },
+      "pressure_rating": 80,
+      "acceleration_rating": 85,
+      "injury_history": "none",
+      "availability": 90
+    },
+    {
+      "name": "Tim David",
+      "role": "Batsman",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm off-break",
+      "recent_form": {
+        "runs_last_5": [
+          35,
+          58,
+          22,
+          72,
+          45
+        ],
+        "strike_rate_last_5": [
+          155,
+          185,
+          138,
+          195,
+          162
+        ],
+        "average_last_5": 46.4
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 30,
+          "sr": 148
+        },
+        "middle_overs": {
+          "avg": 45,
+          "sr": 168
+        },
+        "death_overs": {
+          "avg": 62,
+          "sr": 190
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 48,
+          "sr": 175,
+          "dismissals": 7
+        },
+        "vs_spin": {
+          "avg": 38,
+          "sr": 162,
+          "dismissals": 9
+        }
+      },
+      "pressure_rating": 82,
+      "acceleration_rating": 92,
+      "injury_history": "none",
+      "availability": 95
+    },
+    {
+      "name": "Matthew Wade",
+      "role": "Batsman",
+      "batting_style": "Left-hand",
+      "bowling_style": "Right-arm medium",
+      "recent_form": {
+        "runs_last_5": [
+          28,
+          42,
+          18,
+          55,
+          32
+        ],
+        "strike_rate_last_5": [
+          140,
+          158,
+          128,
+          172,
+          145
+        ],
+        "average_last_5": 35.0
+      },
+      "phase_stats": {
+        "powerplay": {
+          "avg": 32,
+          "sr": 148
+        },
+        "middle_overs": {
+          "avg": 35,
+          "sr": 152
+        },
+        "death_overs": {
+          "avg": 42,
+          "sr": 168
+        }
+      },
+      "matchup_stats": {
+        "vs_pace": {
+          "avg": 35,
+          "sr": 155,
+          "dismissals": 10
+        },
+        "vs_spin": {
+          "avg": 30,
+          "sr": 140,
+          "dismissals": 12
+        }
+      },
+      "pressure_rating": 72,
+      "acceleration_rating": 78,
+      "injury_history": "none",
+      "availability": 92
+    },
+    {
+      "name": "Pat Cummins",
+      "role": "Bowler",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm fast",
+      "bowling_stats": {
+        "economy_powerplay": 6.8,
+        "economy_middle": 7.8,
+        "economy_death": 9.2,
+        "wickets_last_5": [
+          2,
+          2,
+          3,
+          1,
+          2
+        ]
+      },
+      "matchup_effectiveness": {
+        "vs_left_hand": 82,
+        "vs_right_hand": 78
+      },
+      "pressure_rating": 88,
+      "availability": 92
+    },
+    {
+      "name": "Mitchell Starc",
+      "role": "Bowler",
+      "batting_style": "Left-hand",
+      "bowling_style": "Left-arm fast",
+      "bowling_stats": {
+        "economy_powerplay": 7.2,
+        "economy_middle": 8.2,
+        "economy_death": 9.8,
+        "wickets_last_5": [
+          3,
+          2,
+          1,
+          2,
+          2
+        ]
+      },
+      "matchup_effectiveness": {
+        "vs_left_hand": 75,
+        "vs_right_hand": 88
+      },
+      "pressure_rating": 85,
+      "availability": 90
+    },
+    {
+      "name": "Adam Zampa",
+      "role": "Bowler",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm leg-break",
+      "bowling_stats": {
+        "economy_powerplay": 8.2,
+        "economy_middle": 6.8,
+        "economy_death": 9.5,
+        "wickets_last_5": [
+          3,
+          2,
+          2,
+          1,
+          3
+        ]
+      },
+      "matchup_effectiveness": {
+        "vs_left_hand": 82,
+        "vs_right_hand": 85
+      },
+      "pressure_rating": 84,
+      "availability": 95
+    },
+    {
+      "name": "Josh Hazlewood",
+      "role": "Bowler",
+      "batting_style": "Right-hand",
+      "bowling_style": "Right-arm fast-medium",
+      "bowling_stats": {
+        "economy_powerplay": 6.5,
+        "economy_middle": 7.8,
+        "economy_death": 9.0,
+        "wickets_last_5": [
+          2,
+          1,
+          3,
+          2,
+          2
+        ]
+      },
+      "matchup_effectiveness": {
+        "vs_left_hand": 80,
+        "vs_right_hand": 82
+      },
+      "pressure_rating": 86,
+      "availability": 90
+    }
+  ]
+}
